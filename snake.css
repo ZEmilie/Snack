@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0 auto;
     overflow: hidden;
-    background-color: #e2e2e2;
+    background-color: rgba(230, 230, 230, 0.7);
 }
 
 .button-container {
@@ -41,9 +41,27 @@ img {
     padding: 10px;
 }
 
+#rules-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    z-index: -1;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#rules-container p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #game-container {
     border: 1px solid #000;
-    background-color: #f0ebf0;
+    background-color: rgba(200, 230, 230, 0.5);
 }
 
 #message {
