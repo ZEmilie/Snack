@@ -13,7 +13,7 @@ Once the game has started, you can pause it using the "pause" button or the spac
 
 ## Interesting features
 
- - Four speed possible speeds: faster with <img src="/img/fast.png" style="width:40px" /> and slower with <img src="/img/slow.png" style="width:40px" />
+ - Four speed possible speeds: faster with <img src="/img/fast.png" style="width:20px" /> and slower with <img src="/img/slow.png" style="width:20px" />
  - The keyboard \<space\> button is equivalent to pause/play button (line 146 to 151 of snake.js)
 
 ## Installation
