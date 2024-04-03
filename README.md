@@ -37,3 +37,11 @@ The images have been downloaded from:
  - https://www.flaticon.com/fr/icones-gratuites/interface-utilisateur
  - https://www.flaticon.com/fr/icones-gratuites/commande-clavier
  - https://www.flaticon.com/fr/icones-gratuites/touche-flechee
+
+## Auteur
+
+Ce projet a été créé par [Emilie Zhu](https://github.com/emilie-zhu).
+
+## License
+
+This project is licensed under [MIT License](LICENSE).
