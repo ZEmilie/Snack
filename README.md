@@ -1,7 +1,5 @@
 # Snake Game
 
-# Timer
-
 Simple example of creating a Snake Game with JavaScript, HTML and CSS.  
 This have been made with `html 5` and `css 3`. This code appears to be compatible with `ECMAScript 5 (ES5)` or a later version.
 
