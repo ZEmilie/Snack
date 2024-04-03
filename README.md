@@ -1,4 +1,4 @@
-# Snack
+# Snake
 
 # Timer
 
