@@ -2,6 +2,7 @@
 
 Simple example of creating a Snake Game with JavaScript, HTML and CSS.  
 This have been made with `html 5` and `css 3`. This code appears to be compatible with `ECMAScript 5 (ES5)` or a later version.
+This have been made with [ChatGPD](https://chatgpt.com).
 
 ## Presentation of the webpage
 
@@ -34,8 +35,7 @@ The images have been downloaded from:
  - https://www.flaticon.com/fr/icones-gratuites/prochain
  - https://www.flaticon.com/fr/icones-gratuites/interface-utilisateur
  - https://www.flaticon.com/fr/icones-gratuites/commande-clavier
- - https://www.flaticon.com/fr/icones-gratuites/touche-flechee
-
+ - https://www.flaticon.com/fr/icones-gratuites/touche-flecheeD
 ## Auteur
 
 Ce projet a été créé par [Emilie Zhu](https://github.com/emilie-zhu).
